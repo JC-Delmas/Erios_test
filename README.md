@@ -135,7 +135,7 @@ Sources :
 
 - Dépend de la qualité et de l’exhaustivité du document importé.
 - La vitesse de génération peut varier selon la taille du modèle et la puissance CPU de la machine Colab (compter environ 200 secondes par réponse avec ce prototype).
-- La restitution des sources peuvent manquer ou être incomplètes selon le contexte, bien que le modèle s'appuie sur le document pour répondre.
+- La restitution des sources peut être manquante ou peut être incomplète selon le contexte, bien que le modèle s'appuie sur le document pour répondre.
 - Pas de réelle API disponible pour l'instant.
 - Non destiné à un usage médical réel sans validation humaine.
 
