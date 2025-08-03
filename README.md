@@ -148,3 +148,5 @@ Jean-Charles DELMAS
 jean-charles.delmas@chu-montpellier.fr
 Bioinformaticien - UMR1183 - INSERM/CHU de Montpellier
 Plateforme LGMMR pour Laboratoire de Génétique Moléculaire de Maladies Rares, Secteur des Maladies Rares et Auto‑Inflammatoires.
+
+Ce projet a été réalisé avec l'assistance d'une IA (certaines parties de code, commentaires et linting).
