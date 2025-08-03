@@ -2,6 +2,8 @@
 
 Ce notebook Google Colab propose la mise en place d’un assistant médical local, capable de répondre à des questions en français à partir d’un document médical importé (.docx), en utilisant un grand modèle de langage (LLM) open source, et une approche RAG (Retrieval Augmented Generation). L’intégralité du traitement s’effectue sur CPU, sans recours au cloud externe.
 
+Pour accéder au Google Colab, suivez ce lien : https://colab.research.google.com/drive/106JRPfHVvf6qtBRSpe8oFWPV3lwCISLb?usp=sharing
+
 ---
 
 ## Fonctionnalités principales
