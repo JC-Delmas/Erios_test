@@ -128,7 +128,6 @@ Sources :
 
 - **Aucune donnée n’est transmise à des serveurs externes** : tout est exécuté localement sur la machine Colab.
 - L’assistant répond toujours en français, de manière concise, sans jamais poser de nouvelle question.
-- Les sources citées correspondent précisément aux passages extraits du document importé.
 
 ---
 
