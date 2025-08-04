@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 from llama_cpp import Llama
 
 # Installation des dépendances (CPU)
-!pip install -qU \
+pip install -qU \
   llama-cpp-python \
   sentence-transformers \
   faiss-cpu \
@@ -17,7 +17,7 @@ from llama_cpp import Llama
 
 # Téléchargement du modèle & import du .docx (augmentation du prompt par RAG)
 # Modèle quantifié (3,5 Go)
-!wget -q https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_S.gguf -O /content/mistral.gguf
+wget -q https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_S.gguf -O /content/mistral.gguf
 
 from google.colab import files
 import pathlib
